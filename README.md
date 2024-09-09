@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hello Guys,
 I have been working really hard from the past 6 months to create my udemy course on Complete Machine Learning And NLP With End to End Project With MLOPS and Deployment. Finally the course is live
 https://bit.ly/3V0S0jS
@@ -33,3 +34,6 @@ Thank you for being part of this incredible journey. Your feedback and enthusias
 
 Your's
 Krish Naik
+=======
+# Data-Science-Materials-
+>>>>>>> 1e26f0c10b420ae0d4a337ee264b9228cf66025f
